@@ -1,0 +1,7 @@
+name: AutoSelfTransfer
+version: '1.0-SNAPSHOT'
+main: dev.freeserver.utils.autoSelfTransfer.AutoSelfTransfer
+commands:
+  end:
+    description: 關機
+    usage: /end
